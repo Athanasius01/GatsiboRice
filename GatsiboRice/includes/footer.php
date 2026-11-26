@@ -1,0 +1,1 @@
+</main></div><footer>© <?=date('Y')?> Gatsibo Rice Co. Ltd · Internal business platform</footer><script src="<?=BASE_URL?>/assets/app.js"></script></body></html>

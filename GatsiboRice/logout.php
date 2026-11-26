@@ -1,0 +1,1 @@
+<?php require 'config/config.php';if(user())log_action('Logout','Signed out');$_SESSION=[];session_destroy();header('Location: '.BASE_URL.'/login.php');
